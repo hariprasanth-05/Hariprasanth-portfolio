@@ -1,0 +1,17 @@
+body{
+
+    font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+
+      
+}
+.banner{
+    background-image: url(/PORTFOLIO/img/ybg.jpg);
+    padding:230px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skills-padding{
+    padding:70px 0;
+}
