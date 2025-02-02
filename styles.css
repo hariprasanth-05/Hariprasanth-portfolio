@@ -7,7 +7,7 @@ body{
       
 }
 .banner{
-    background-image: url(/PORTFOLIO/img/ybg.jpg);
+    background-image: url(../img/ybg.jpg);
     padding:230px;
     background-size: cover;
     background-repeat: no-repeat;
